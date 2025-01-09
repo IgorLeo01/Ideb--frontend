@@ -1,0 +1,582 @@
+{
+  "Ansiedade": {
+    "questions": [
+      {
+        "text": "Você se considera uma pessoa ansiosa?",
+        "answers": [
+          { "text": "Não", "score": 0 },
+          { "text": "Raramente", "score": 1 },
+          { "text": "Às vezes", "score": 2 },
+          { "text": "Ultimamente sim ", "score": 3 },
+          { "text": "Desde sempre ", "score": 4 }
+        ]
+      },
+      {
+        "text": "Você tem pensamentos fixos ou repetitivos que te incomodam?",
+        "answers": [
+          { "text": "Não", "score": 0 },
+          { "text": "Raramente", "score": 1 },
+          { "text": "Às vezes", "score": 2 },
+          { "text": "Ultimamente sim ", "score": 3 },
+          { "text": "Desde sempre ", "score": 4 }
+        ]
+      },
+      {
+        "text": "Na hora de dormir ou pela madrugada surgem pensamentos que tiram seu sono?",
+        "answers": [
+          { "text": "Não", "score": 0 },
+          { "text": "Raramente", "score": 1 },
+          { "text": "Às vezes", "score": 2 },
+          { "text": "Ultimamente sim ", "score": 3 },
+          { "text": "Desde sempre ", "score": 4 }
+        ]
+      },
+      {
+        "text": "Você tem dificuldade para controlar seus pensamentos?",
+        "answers": [
+          { "text": "Não", "score": 0 },
+          { "text": "Raramente", "score": 1 },
+          { "text": "Às vezes", "score": 2 },
+          { "text": "Ultimamente sim ", "score": 3 },
+          { "text": "Desde sempre ", "score": 4 }
+        ]
+      },
+      {
+        "text": "Você tem dificuldade para se concentrar?",
+        "answers": [
+          { "text": "Não", "score": 0 },
+          { "text": "Raramente", "score": 1 },
+          { "text": "Às vezes", "score": 2 },
+          { "text": "Ultimamente sim ", "score": 3 },
+          { "text": "Desde sempre ", "score": 4 }
+        ]
+      },
+      {
+        "text": "Você tem dificuldade para tomar decisões?",
+        "answers": [
+          { "text": "Não", "score": 0 },
+          { "text": "Raramente", "score": 1 },
+          { "text": "Às vezes", "score": 2 },
+          { "text": "Ultimamente sim ", "score": 3 },
+          { "text": "Desde sempre ", "score": 4 }
+        ]
+      },
+      {
+        "text": "Tem sentido algum nível de angustia?",
+        "answers": [
+          { "text": "Não", "score": 0 },
+          { "text": "Apenas um pouco  ", "score": 1 },
+          { "text": "Nada que não possa controlar", "score": 2 },
+          { "text": "Tenho me angustiado", "score": 3 },
+          { "text": "Ando extremamente angustiado(a)", "score": 4 }
+        ]
+      },
+      {
+        "text": "Tem sentido algum tipo de desconforto físico no abdômen, aceleração do coração, algum tipo de tensão muscular ou suor excessivo mesmo sem uma razão aparente?",
+        "answers": [
+          { "text": "Não", "score": 0 },
+          { "text": "Raramente", "score": 1 },
+          { "text": "Às vezes", "score": 2 },
+          { "text": "Ultimamente sim ", "score": 3 },
+          { "text": "Desde sempre ", "score": 4 }
+        ]
+      },
+      {
+        "text": "Você evita assumir responsabilidades ou compromissos?",
+        "answers": [
+          { "text": "Não", "score": 0 },
+          { "text": "Raramente", "score": 1 },
+          { "text": "Às vezes", "score": 2 },
+          { "text": "Ultimamente sim ", "score": 3 },
+          { "text": "Desde sempre ", "score": 4 }
+        ]
+      },
+      {
+        "text": "Tem sentido algum tipo de medo?",
+        "answers": [
+          { "text": "Não", "score": 0 },
+          { "text": "Raramente", "score": 1 },
+          { "text": "Às vezes", "score": 2 },
+          { "text": "Ultimamente sim ", "score": 3 },
+          { "text": "Desde sempre ", "score": 4 }
+        ]
+      }
+    ],
+    "feedbacks": [
+      {
+        "minScore": 0,
+        "maxScore": 7,
+        "introduction": "Suas respostas revelam aspectos interessantes sobre sua experiência interna e sua maneira de enfrentar o mundo. Aqui estão algumas interpretações possíveis dessas respostas:",
+        "interpretations": [
+          {
+            "topic": "Estabilidade emocional",
+            "explanation": "Sua resposta pode indicar que você está atravessando um período de calma, sem grandes estressores. Isso é excelente, pois sugere que você se encontra em um estado de bem-estar e equilíbrio emocional."
+          },
+          {
+            "topic": "Habilidades de enfrentamento",
+            "explanation": "Você pode ter desenvolvido estratégias eficazes para lidar com os desafios da vida. Isso é comparável a ter um conjunto de ferramentas que você usa para manter a ansiedade sob controle, permitindo-lhe enfrentar as adversidades com confiança."
+          },
+          {
+            "topic": "Possível negação emocional",
+            "explanation": "Em alguns casos, evitar reconhecer a ansiedade pode ser um mecanismo de defesa. É natural querer parecer forte ou imune a preocupações, mas é fundamental reconhecer e aceitar nossos sentimentos para lidar com eles de maneira saudável."
+          },
+          {
+            "topic": "Autoconfiança",
+            "explanation": "Talvez você tenha uma forte autoconfiança e veja as situações desafiadoras mais como oportunidades do que como ameaças. Essa perspectiva pode ser um grande ativo, pois promove uma abordagem proativa na resolução de problemas."
+          },
+          {
+            "topic": "Foco na solução",
+            "explanation": "Se você tende a concentrar-se nas soluções em vez de nos problemas, isso mostra uma abordagem positiva diante das dificuldades. Esse foco pode minimizar a sensação de ansiedade ao enfrentar desafios, pois você está mais concentrado em encontrar saídas do que em se preocupar com os obstáculos."
+          }
+        ],
+        "advice": "É essencial reconhecer que nossa percepção de ansiedade e como a gerenciamos pode variar significativamente de uma pessoa para outra. Se você não se sente ansioso, isso pode ser um sinal de que você está lidando bem com as pressões da vida. No entanto, conversar com um profissional de saúde mental pode oferecer insights valiosos sobre suas estratégias de enfrentamento e saúde emocional, além de reforçar sua autoestima e confiança.",
+        "complement": "Compreender nossas emoções e como elas nos afetam é crucial para o bem-estar geral. O autoconhecimento e a reflexão sobre nossas experiências emocionais nos capacitam a navegar pela vida de maneira mais consciente e resiliente.",
+        "lastPhrase": "Mas lembre-se: Aquele que está de pé, cuide para que não caia!"
+      },
+      {
+        "minScore": 8,
+        "maxScore": 15,
+        "introduction": "Sua autoavaliação sugere um perfil emocionalmente resiliente, que equilibra bem a autoconsciência e o controle emocional. Este perfil pode ser detalhado da seguinte forma:",
+        "interpretations": [
+          {
+            "topic": "Resiliência sob Pressão",
+            "explanation": "Você demonstra uma capacidade notável de manter a calma em situações de pressão. Sua resiliência interna permite que você enfrente desafios sem ser dominado pela ansiedade. Isso sugere não apenas uma forte estrutura emocional, mas também a habilidade de se adaptar e reagir de maneira saudável diante das adversidades."
+          },
+          {
+            "topic": "Autoconsciência e Realismo",
+            "explanation": "Você demonstra compreensão clara de suas próprias emoções e limitações. Você reconhece quando a ansiedade se manifesta, mas não permite que ela dite suas ações ou decisões. Sua abordagem realista da vida ajuda a manter uma perspectiva equilibrada, reconhecendo tanto as oportunidades quanto os desafios sem ilusões ou exageros."
+          },
+          {
+            "topic": "Equilíbrio Emocional",
+            "explanation": "Apesar de reconhecer seus momentos de vulnerabilidade, você procura ativamente manter o equilíbrio, evitando que as oscilações emocionais afetem profundamente seu bem-estar ou capacidade de ação. Este equilíbrio é um testemunho de sua maturidade emocional e habilidade de processar sentimentos de maneira construtiva."
+          },
+          {
+            "topic": "Confiança Sóbria",
+            "explanation": "A sua confiança não é fruto de uma negação de suas fragilidades, mas de um conhecimento profundo de suas forças e limitações. Você cultiva uma autoconfiança que é realista e fundamentada, permitindo-lhe enfrentar a vida com determinação e tranquilidade."
+          },
+          {
+            "topic": "Proatividade Frente às Adversidades",
+            "explanation": "Sua abordagem diante da vida se caracteriza por uma atitude proativa em vez de reativa. Você não espera que os problemas os sobrecarreguem, mas toma medidas conscientes para resolver situações potencialmente estressantes antes que se tornem fontes de ansiedade significativa."
+          }
+        ],
+        "advice": "Reconhecer a raridade da sua ansiedade é um sinal de um equilíbrio emocional saudável, mas permanecer aberto ao crescimento pessoal e ao aperfeiçoamento contínuo é crucial. Considerar a orientação de um profissional de saúde mental pode enriquecer ainda mais sua capacidade de enfrentar desafios futuros, oferecendo novas estratégias de coping e promovendo um maior entendimento de si mesmo. Este processo pode aprimorar suas habilidades já eficazes, proporcionando uma reserva ainda maior de resiliência emocional e psicológica.",
+        "complement": "No âmbito da psicologia, essa capacidade de sentir ansiedade apenas raramente indica não apenas um controle emocional eficaz, mas também uma integração saudável de mecanismos de enfrentamento. Isso pode ser um reflexo de uma boa regulação emocional, que é a habilidade de gerenciar e responder às experiências emocionais de maneira flexível. Essa resposta ao questionário pode ser vista como um indicativo de uma personalidade bem ajustada, que é capaz de lidar com o estresse de forma adaptativa e possui uma visão equilibrada de si mesmo e do mundo ao redor.",
+        "lastPhrase": "Seu nível de ansiedade está dentro da normalidade!"
+      },
+      {
+        "minScore": 16,
+        "maxScore": 23,
+        "introduction": "As suas respostas refletem uma percepção de que a experiência da ansiedade é intermitente, varia a cada situação e muitas vezes dependente de circunstâncias específicas. Essa autoavaliação revela nuances importantes sobre como você se relaciona com suas emoções e ambientes. Aqui está uma análise detalhada com base nessa perspectiva:",
+        "interpretations": [
+          {
+            "topic": "Consciência Situacional",
+            "explanation": "Se você experimenta ansiedade de forma situacional demonstra uma elevada consciência de como certos contextos ou eventos desencadeiam suas reações emocionais. Esta consciência é o primeiro passo crucial para desenvolver estratégias eficazes de enfrentamento, permitindo-lhe identificar e, possivelmente, ajustar suas respostas a tais gatilhos."
+          },
+          {
+            "topic": "Equilíbrio em Movimento",
+            "explanation": "Você pode se encontrar às vezes ansioso mas procura manter habitualmente um ponto de equilíbrio dinâmico. Geralmente mantêm a estabilidade, mas reconhece que certas situações podem desafiá-lo. Essa flexibilidade psicológica é valiosa, pois permite ajustes conforme necessário para manter o equilíbrio emocional."
+          },
+          {
+            "topic": "Reconhecimento de Vulnerabilidades",
+            "explanation": "Sua capacidade de reconhecer abertamente as áreas de vulnerabilidade é uma força. Você sinaliza uma disposição para enfrentar e trabalhar através de fragilidades, em vez de negá-las ou escondê-las. Isso demonstra um compromisso com o crescimento pessoal e a saúde emocional."
+          },
+          {
+            "topic": "Alerta e Prevenção",
+            "explanation": "A consciência de que a ansiedade pode se intensificar se não for cuidadosamente gerenciada serve como um sistema de alerta interno. Isso pode motivar você a adotar uma postura preventiva, procurando estratégias para mitigar ou minimizar o impacto da ansiedade antes que se torne avassaladora."
+          },
+          {
+            "topic": "Fortalecimento Integral",
+            "explanation": "Reconhecer que certas áreas da vida podem ser mais propensas a desencadear ansiedade é um convite para o fortalecimento nessas esferas. Seja na vida profissional, pessoal, acadêmica ou em relacionamentos, trabalhar para se sentir capacitado e resiliente em todas as áreas pode ajudar a reduzir a ansiedade global."
+          }
+        ],
+        "advice": "Valorize sua capacidade de identificar quando e por que a ansiedade surge em sua vida. Utilize essa consciência como um guia para fortalecer suas estratégias de enfrentamento e buscar recursos adicionais. A colaboração com um profissional de saúde mental pode ser particularmente benéfica, oferecendo suporte para explorar mais profundamente suas experiências, identificar padrões e desenvolver novas habilidades para gerenciar a ansiedade. Esse processo não apenas ajuda a mitigar a ansiedade quando ela ocorre, mas também amplia sua capacidade de navegar pela vida com confiança e resiliência.",
+        "complement": "A experiência intermitente de ansiedade reflete uma dinâmica emocional complexa e adaptativa. Psicologicamente, isso indica uma inteligência emocional que permite à pessoa reconhecer e responder às flutuações emocionais de maneira eficaz. A flexibilidade psicológica, um conceito central na Terapia de Aceitação e Compromisso (ACT), é evidente aqui, permitindo que o indivíduo se adapte e prospere diante das mudanças e desafios. Reforçar essa flexibilidade através do desenvolvimento de uma maior conscientização, aceitação e compromisso com ações alinhadas aos valores pessoais pode promover um bem-estar duradouro e uma vida mais satisfatória.",
+        "lastPhrase": "Atenção! Seu nível de ansiedade está em alerta, mas pode em um momento de fragilidade ser surpreendido e pego pela insegurança e o medo. É aconselhável agendar com um profissional qualificado de sua confiança para fortalecer suas potencialidades, pois o futuro continue sendo uma caixa de surpresas."
+      },
+      {
+        "minScore": 24,
+        "maxScore": 31,
+        "introduction": "As suas respostas indicam que você não trás em sua vida um histórico agudo de ansiedade, mas que ultimamente algo vem afetando a sua estabilidade e de que existe um aumento recente na experiência de ansiedade, indicando uma consciência aguda das mudanças em seu estado emocional e um impacto considerável em vários aspectos da vida. A análise psicológica pode ser estruturada da seguinte maneira:",
+        "interpretations": [
+          {
+            "topic": "Reconhecimento de uma Mudança Significativa",
+            "explanation": "A admissão de sentir ansiedade ultimamente aponta para uma percepção clara de que algo fundamental mudou e alterou o seu equilíbrio emocional. Isso sinaliza uma grande capacidade em seu estado de consciência para perceber a sua própria saúde mental, reconhecendo que as recentes experiências de vida estejam de alguma forma te afetando ainda que esteja lutando para que isso não aconteça. Tudo indica que nesse momento algo esta gerando inquietação e desconforto em você. É possível que nesse momento, mesmo você sendo forte, esteja buscando uma solução, mas ainda não a encontrou. A primeira pergunta que você deve fazer é: O que exatamente abalou ou tem abalado o seu estado emocional?"
+          },
+          {
+            "topic": "Impacto Abrangente na Vida Diária",
+            "explanation": "Se o seu sono foi afetado por pensamentos que se repetem continuamente, sua concentração não esta mais a mesma, o prazer pela vida diminuiu, as relações pessoais e profissionais estão abaladas, indica um estado de ansiedade que já está perturbando significativamente o funcionamento diário. Nesse caso a ansiedade não é mais um estado emocional transitório; tornou-se um aspecto dominante que interfere na qualidade geral de sua vida e você precisa tomar decisões crucias e fazer algo mais eficaz imediatamente."
+          },
+          {
+            "topic": "Risco de Agudização dos Sintomas",
+            "explanation": "É importante que você compreenda que sua saúde emocional é responsável por até 90% do seu sucesso como pessoa. Outro detalhe importante é ter consciência de que a ansiedade se alimenta de cada nova crise de ansiedade, ou seja, o medo e a preocupação alimentam mais medo e preocupação, levando a um ciclo vicioso, aumentando o risco de desenvolver condições mais graves. Mesmo que você já tenha vencido muitas batalhas é importante que agora reconheça que até os mais valentes dos guerreiros também precisam de um pouco de descanso e aconselhamento. "
+          },
+          {
+            "topic": "Necessidade de Intervenção Profissional",
+            "explanation": "Se você já reconheceu que apesar de estar guerreando bravamente contra essa situação já esta começando a esgotar suas forças, então está na hora de humildemente buscar apoio profissional. Compreender profundamente o que esta acontecendo e ter clareza sobre sua própria vida, fará com que você encontre luz como se estivesse em quarto escuro, no qual poderá ver claramente a porta de saída."
+          },
+          {
+            "topic": "Importância do Autocuidado e Suporte",
+            "explanation": "Com o apoio profissional, você poderá encontrar uma solução de forma mais rápida do que imaginava e conseguirá lidar com seus desafios de forma muito gloriosa. Você tem sido forte e talvez já tenha lutado a luta de muitas pessoas, mas agora esta na hora de se fortalecer para retomar sua vida ainda mais forte"
+          }
+        ],
+        "advice": "Se você está experimentando um aumento na ansiedade que afeta significativamente sua vida, reconhecer a necessidade de ajuda é um passo corajoso e necessário. Além de buscar apoio profissional, considere as mudanças no estilo de vida que podem ajudar a gerenciar a ansiedade. Inclua atividades que promovam relaxamento e bem-estar, como exercícios físicos, meditação e passatempos que você goste. Lembre-se de que cuidar da sua saúde mental é tão importante quanto cuidar da sua saúde física.",
+        "complement": "A ansiedade, especialmente quando aumenta rapidamente em intensidade e duração, pode ser um sinal de desequilíbrio psicológico que exige atenção. Este estado não só afeta negativamente a qualidade de vida, mas também pode impedir o funcionamento eficaz em áreas chaves. A intervenção psicológica, será extremamente eficaz para apontar habilidades de enfrentamento, reestruturar pensamentos disfuncionais e promover a recuperação emocional. Reconhecer a necessidade de apoio e tomar medidas para buscar suporte será um grande ato de força e coragem no caminho para o fortalecimento de uma vida de grandes e boas surpresas que ainda espera por você!",
+        "lastPhrase": "O seu nível de ansiedade é alto e você e precisa de apoio profissional!"
+      },
+      {
+        "minScore": 32,
+        "maxScore": 40,
+        "introduction": "Se você sempre se sentiu ansioso, é importante que primeiramente compreenda que isso não é fraqueza e nem culpa sua! Tenho certeza que você não escolheu isso para sua vida. No entanto, essa autopercepção de sentir que a ansiedade é predominante em você, pode parecer uma sombra constante que pode estar tentando minar sua força, coragem e autoestima, influenciando profundamente como se vê e interage com o mundo. Talvez esse estado tem trazido um atraso profissional ou dificuldade de conquistar seus sonhos. Seus esforços para realizar coisas tendem a ser maior do que para outras pessoas. Vamos abordar essa sensação com uma nova perspectiva, reconhecendo suas raízes e o caminho à frente:",
+        "interpretations": [
+          {
+            "topic": "Entendimento e Posicionamento Assertivo",
+            "explanation": "Você demonstra ter muitas dúvidas sobre sua própria capacidade e tem medo de cometer erros, falhas ou mesmo ser chamado a atenção. Sua necessidade de querer agradar as pessoas é grande, assim como você tem dificuldade de falar não e se posicionar de forma em suas próprias idéias; isso te leva a muitas vezes ser permissivo e concordar e fazer coisas que você na verdade discorda. Sua capacidade para tomar decisões não é muito simples para você, assim como se manter constantemente focado em um objetivo pode ser desafiador. Tudo indica que manter um bom nível de concentração também não é nada fácil. Essas questões tem raízes antigas, possivelmente remontando à infância e adolescência, é um passo importante compreender que o ambiente afeta nossa percepção de mundo. Experiências passadas, especialmente aquelas nos anos formativos com a família ou amigos, podem ter moldado profundamente a maneira como você se percebe e ao mundo ao seu redor. Essa percepção não reflete sua capacidade total ou o valor inerente que você possui. Essas condições estão em você, mas não são você e nem te definem, tudo isso é um estado que pode ser completamente mudado. Por isso, não definem quem você, mas evidenciam as suas experiências de vida."
+          },
+          {
+            "topic": "Autoaceitação",
+            "explanation": "É vital você entender que não há culpa em sentir-se ansioso. A ansiedade, especialmente aquela que parece fazer parte de quem você é há muito tempo, não é um reflexo de falha ou fraqueza sua. Ela é, em muitos casos, o resultado de circunstâncias além do seu controle. Aceitar isso é o primeiro passo para a transformação. Você é muito mais e pode muito mais do pensa ou acredita. Sua transformação é um processo completamente possível e existem meios comprovados para estabelecer uma nova estrutura de pensamento. A forma como sua mente processa determinadas informações é fruto de uma aprendizagem silenciosa que você não percebeu. Mas agora, aceitar essa realidade e se responsabilizar pela sua transformação, é uma decisão que depende unicamente de você, ainda que não acredite ser possível."
+          },
+          {
+            "topic": "Reconhecimento de Força",
+            "explanation": "Apesar de sua luta contínua com a ansiedade, você possui uma força interior notável. A capacidade de reconhecer e refletir sobre sua ansiedade indica resiliência. Dentro de você, existem recursos e competências que, talvez, ainda não tenham sido totalmente explorados ou reconhecidos."
+          },
+          {
+            "topic": "Assumir o Controle",
+            "explanation": "Embora não possamos mudar o passado, temos a liberdade e a responsabilidade de moldar nosso futuro. Assumir a responsabilidade por sua jornada de cura é um ato de coragem. Reconhecer que você merece mais da vida é um poderoso ponto de partida para a mudança."
+          },
+          {
+            "topic": "Descobrindo Novos Caminhos",
+            "explanation": "Este momento de autoconsciência pode ser o início de uma jornada extraordinária em direção ao autodescobrimento. A dor e a adversidade, embora desafiadoras, podem revelar capacidades e forças que você não sabia que possuía. Com apoio, seja de amigos, família ou profissionais, você pode começar a desvendar essas novas facetas de si mesmo."
+          }
+        ],
+        "advice": "Busque apoio para navegar por essa transformação. Um terapeuta pode oferecer um espaço seguro para explorar suas experiências e sentimentos, ajudando a construir novas narrativas sobre si mesmo e sua vida. Lembre-se, a decisão de buscar uma vida mais plena e satisfatória é um ato de profundo autoamor e respeito. Você não está sozinho nessa jornada, e a cada passo, você se aproxima de se tornar a versão mais realizada de si mesmo.",
+        "complement": "A ansiedade, especialmente quando aumenta rapidamente em intensidade e duração, pode ser um sinal de desequilíbrio psicológico que exige atenção. Este estado não só afeta negativamente a qualidade de vida, mas também pode impedir o funcionamento eficaz em áreas chaves. A intervenção psicológica, será extremamente eficaz para apontar habilidades de enfrentamento, reestruturar pensamentos disfuncionais e promover a recuperação emocional. Reconhecer a necessidade de apoio e tomar medidas para buscar suporte será um grande ato de força e coragem no caminho para o fortalecimento de uma vida de grandes e boas surpresas que ainda espera por você!",
+        "lastPhrase": "A vida pode ser injusta, mas dentro de você reside a capacidade de criar justiça para si mesmo, decidindo buscar o melhor que a vida tem a oferecer. Este é o momento de reconhecer sua força interna extraordinária e usar suas experiências, por mais desafiadoras que sejam, como um catalisador para o crescimento pessoal e a transformação."
+      }
+    ]
+  },
+  "Estresse": {
+    "questions": [
+      {
+        "text": "Nos últimos dias tem sentido aceleração no coração, pressão no pescoço, respiração ofegante e tensão muscular ( no abdômen, nas costas, nos ombros, testa contraída, dor de cabeça e problemas digestivos)?",
+        "answers": [
+          { "text": "Não", "score": 0 },
+          { "text": "Raramente", "score": 1 },
+          { "text": "Às vezes", "score": 2 },
+          { "text": "Ultimamente sim ", "score": 3 },
+          { "text": "Desde sempre ", "score": 4 }
+        ]
+      },
+      {
+        "text": "Tem tido dificuldade de se lembrar de coisas simples ( nome de pessoas e tomar decisões)?",
+        "answers": [
+          { "text": "Não", "score": 0 },
+          { "text": "Raramente", "score": 1 },
+          { "text": "Às vezes", "score": 2 },
+          { "text": "Ultimamente sim ", "score": 3 },
+          { "text": "Desde sempre ", "score": 4 }
+        ]
+      },
+      {
+        "text": "Tem se sentido irritado com barulhos e até mesmo com pessoas falando?",
+        "answers": [
+          { "text": "Não", "score": 0 },
+          { "text": "Raramente", "score": 1 },
+          { "text": "Às vezes", "score": 2 },
+          { "text": "Ultimamente sim ", "score": 3 },
+          { "text": "Desde sempre ", "score": 4 }
+        ]
+      },
+      {
+        "text": "Tem tido dificuldade para sorrir, achado as coisas sem graça e procurado se afastar das pessoas?",
+        "answers": [
+          { "text": "Não", "score": 0 },
+          { "text": "Raramente", "score": 1 },
+          { "text": "Às vezes", "score": 2 },
+          { "text": "Ultimamente sim ", "score": 3 },
+          { "text": "Desde sempre ", "score": 4 }
+        ]
+      },
+      {
+        "text": "Tem sentido vontade de fugir dos problemas procurando fazer algo que te distraia de forma excessiva, como: séries, álcool, jogos ou festas?",
+        "answers": [
+          { "text": "Não", "score": 0 },
+          { "text": "Raramente", "score": 1 },
+          { "text": "Às vezes", "score": 2 },
+          { "text": "Ultimamente sim ", "score": 3 },
+          { "text": "Desde sempre ", "score": 4 }
+        ]
+      },
+      {
+        "text": "Tem sentido dificuldade para dormir, manter o sono ou ao acordar se sente cansado?",
+        "answers": [
+          { "text": "Não", "score": 0 },
+          { "text": "Raramente", "score": 1 },
+          { "text": "Às vezes", "score": 2 },
+          { "text": "Ultimamente sim ", "score": 3 },
+          { "text": "Desde sempre ", "score": 4 }
+        ]
+      },
+      {
+        "text": "Tem percebido que a sua capacidade produtiva tem diminuído?",
+        "answers": [
+          { "text": "Não", "score": 0 },
+          { "text": "Apenas um pouco  ", "score": 1 },
+          { "text": "Nada que não possa controlar", "score": 2 },
+          { "text": "Tenho me angustiado", "score": 3 },
+          { "text": "Ando extremamente angustiado(a)", "score": 4 }
+        ]
+      },
+      {
+        "text": "Tem se sentido irritado com facilidade?",
+        "answers": [
+          { "text": "Não", "score": 0 },
+          { "text": "Raramente", "score": 1 },
+          { "text": "Às vezes", "score": 2 },
+          { "text": "Ultimamente sim ", "score": 3 },
+          { "text": "Desde sempre ", "score": 4 }
+        ]
+      },
+      {
+        "text": "Ultimamente tem sentido vontade de explodir, de xingar ou falar verdades para algumas pessoas?",
+        "answers": [
+          { "text": "Não", "score": 0 },
+          { "text": "Raramente", "score": 1 },
+          { "text": "Às vezes", "score": 2 },
+          { "text": "Ultimamente sim ", "score": 3 },
+          { "text": "Desde sempre ", "score": 4 }
+        ]
+      }
+    ],
+    "feedbacks": [
+      {
+        "minScore": 0,
+        "maxScore": 7,
+        "introduction": "Seu nível de estresse parece ser bem baixo, o que é ótimo para a sua saúde geral.",
+        "interpretations": [],
+        "advice": "",
+        "complement": "",
+        "lastPhrase": ""
+      },
+      {
+        "minScore": 8,
+        "maxScore": 15,
+        "introduction": "Seu nível de estresse parece ser baixo, o que é ótimo para a sua saúde geral.",
+        "interpretations": [],
+        "advice": "",
+        "complement": "",
+        "lastPhrase": ""
+      },
+      {
+        "minScore": 16,
+        "maxScore": 23,
+        "introduction": "Você pode estar enfrentando um nível moderado de estresse. Encontrar tempo para relaxar e desconectar pode ajudar.",
+        "interpretations": [],
+        "advice": "",
+        "complement": "",
+        "lastPhrase": ""
+      },
+
+      {
+        "minScore": 24,
+        "maxScore": 31,
+        "introduction": "Seu nível de estresse parece ser elevado. Considerar estratégias de gestão de estresse pode ser útil.",
+        "interpretations": [],
+        "advice": "",
+        "complement": "",
+        "lastPhrase": ""
+      },
+      {
+        "minScore": 32,
+        "maxScore": 40,
+        "introduction": "Seu nível de estresse parece estar bem elevado. Procure um profissional.",
+        "interpretations": [],
+        "advice": "",
+        "complement": "",
+        "lastPhrase": ""
+      }
+    ]
+  },
+  "depressao": {
+    "questions": [
+      {
+        "text": "Você tem sentido tristeza ou sentimento de vazio?",
+        "answers": [
+          { "text": "Não", "score": 0 },
+          { "text": "Raramente", "score": 1 },
+          { "text": "Às vezes", "score": 2 },
+          { "text": "Ultimamente sim ", "score": 3 },
+          { "text": "Desde sempre ", "score": 4 }
+        ]
+      },
+      {
+        "text": "Você tem percebido que o seu interesse por coisas que te davam prazer tem diminuído?",
+        "answers": [
+          { "text": "Não", "score": 0 },
+          { "text": "Raramente", "score": 1 },
+          { "text": "Às vezes", "score": 2 },
+          { "text": "Ultimamente sim ", "score": 3 },
+          { "text": "Desde sempre ", "score": 4 }
+        ]
+      },
+      {
+        "text": "No último mês você percebeu que ganhou ou perdeu peso significativamente mesmo sem fazer dieta?",
+        "answers": [
+          { "text": "Não", "score": 0 },
+          { "text": "Raramente", "score": 1 },
+          { "text": "Às vezes", "score": 2 },
+          { "text": "Ultimamente sim ", "score": 3 },
+          { "text": "Desde sempre ", "score": 4 }
+        ]
+      },
+      {
+        "text": "Tem sentido vontade de passar mais tempo na cama ou com dificuldade para dormir ?",
+        "answers": [
+          { "text": "Não", "score": 0 },
+          { "text": "Raramente", "score": 1 },
+          { "text": "Às vezes", "score": 2 },
+          { "text": "Ultimamente sim ", "score": 3 },
+          { "text": "Desde sempre ", "score": 4 }
+        ]
+      },
+      {
+        "text": "Nos últimos dias alguém observou que você anda inquieto(a) ou meio desanimado(a) ou desmotivado(a)?",
+        "answers": [
+          { "text": "Não", "score": 0 },
+          { "text": "Raramente", "score": 1 },
+          { "text": "Às vezes", "score": 2 },
+          { "text": "Ultimamente sim ", "score": 3 },
+          { "text": "Desde sempre ", "score": 4 }
+        ]
+      },
+      {
+        "text": "Você tem experimentado o sentimento de cansaço ou falta de energia ao ponto de interferir nos estudos, no trabalho e nas tarefas diárias ?",
+        "answers": [
+          { "text": "Não", "score": 0 },
+          { "text": "Raramente", "score": 1 },
+          { "text": "Às vezes", "score": 2 },
+          { "text": "Ultimamente sim ", "score": 3 },
+          { "text": "Desde sempre ", "score": 4 }
+        ]
+      },
+      {
+        "text": "Você tem experimentado de algum sentimento de culpa, raiva ou de incapacidade para resolver alguma coisa?",
+        "answers": [
+          { "text": "Não", "score": 0 },
+          { "text": "Apenas um pouco  ", "score": 1 },
+          { "text": "Nada que não possa controlar", "score": 2 },
+          { "text": "Tenho me angustiado", "score": 3 },
+          { "text": "Ando extremamente angustiado(a)", "score": 4 }
+        ]
+      },
+      {
+        "text": "Tem sentido algum tipo de desconforto físico no abdômen, aceleração do coração, algum tipo de tensão muscular ou suor excessivo mesmo sem uma razão aparente?",
+        "answers": [
+          { "text": "Não", "score": 0 },
+          { "text": "Raramente", "score": 1 },
+          { "text": "Às vezes", "score": 2 },
+          { "text": "Ultimamente sim ", "score": 3 },
+          { "text": "Desde sempre ", "score": 4 }
+        ]
+      },
+      {
+        "text": "Você tem experimentado de algum sentimento de fracasso ou frustração?",
+        "answers": [
+          { "text": "Não", "score": 0 },
+          { "text": "Raramente", "score": 1 },
+          { "text": "Às vezes", "score": 2 },
+          { "text": "Ultimamente sim ", "score": 3 },
+          { "text": "Desde sempre ", "score": 4 }
+        ]
+      },
+      {
+        "text": "Tem se sentido sozinho como se as pessoas não se importassem com você?",
+        "answers": [
+          { "text": "Não", "score": 0 },
+          { "text": "Raramente", "score": 1 },
+          { "text": "Às vezes", "score": 2 },
+          { "text": "Ultimamente sim ", "score": 3 },
+          { "text": "Desde sempre ", "score": 4 }
+        ]
+      },
+      {
+        "text": "Tem experimentado de algum pensamento de que você não pode fazer absolutamente nada para mudar a situação atual da sua vida?",
+        "answers": [
+          { "text": "Não", "score": 0 },
+          { "text": "Raramente", "score": 1 },
+          { "text": "Às vezes", "score": 2 },
+          { "text": "Ultimamente sim ", "score": 3 },
+          { "text": "Desde sempre ", "score": 4 }
+        ]
+      },
+      {
+        "text": "Tem experimentado de algum sentimento de desesperança como se ninguém pudesse fazer nada por você e de que as coisas não irão mudar e apenas piorar?",
+        "answers": [
+          { "text": "Não", "score": 0 },
+          { "text": "Raramente", "score": 1 },
+          { "text": "Às vezes", "score": 2 },
+          { "text": "Ultimamente sim ", "score": 3 },
+          { "text": "Desde sempre ", "score": 4 }
+        ]
+      },
+      {
+        "text": "Já pensou em desistir da vida?",
+        "answers": [
+          { "text": "Não", "score": 0 },
+          { "text": "Raramente", "score": 1 },
+          { "text": "Às vezes", "score": 2 },
+          { "text": "Ultimamente sim ", "score": 3 },
+          { "text": "Desde sempre ", "score": 4 }
+        ]
+      }
+    ],
+    "feedbacks": [
+      {
+        "minScore": 0,
+        "maxScore": 7,
+        "introduction": "Seu nível de depressão parece ser bem baixo, o que é ótimo para a sua saúde geral.",
+        "interpretations": [],
+        "advice": "",
+        "complement": "",
+        "lastPhrase": ""
+      },
+      {
+        "minScore": 8,
+        "maxScore": 15,
+        "introduction": "Seu nível de depressão parece ser baixo, o que é ótimo para a sua saúde geral.",
+        "interpretations": [],
+        "advice": "",
+        "complement": "",
+        "lastPhrase": ""
+      },
+      {
+        "minScore": 16,
+        "maxScore": 23,
+        "introduction": "Você pode estar enfrentando um nível moderado de depressão. Encontrar tempo para relaxar e desconectar pode ajudar.",
+        "interpretations": [],
+        "advice": "",
+        "complement": "",
+        "lastPhrase": ""
+      },
+
+      {
+        "minScore": 24,
+        "maxScore": 31,
+        "introduction": "Seu nível de depressão parece ser elevado. Considerar estratégias de gestão de emoções pode ser útil.",
+        "interpretations": [],
+        "advice": "",
+        "complement": "",
+        "lastPhrase": ""
+      },
+      {
+        "minScore": 32,
+        "maxScore": 40,
+        "introduction": "Seu nível de depressão parece estar bem elevado. Procure um profissional.",
+        "interpretations": [],
+        "advice": "",
+        "complement": "",
+        "lastPhrase": ""
+      }
+    ]
+  }
+}
